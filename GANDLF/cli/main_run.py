@@ -122,3 +122,6 @@ def main_run(
                 parameters=parameters,
                 device=device,
             )
+
+    print(1)
+
